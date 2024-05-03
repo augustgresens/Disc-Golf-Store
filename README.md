@@ -1,6 +1,6 @@
 # Disc Golf Store
 
-This website was created by Luke and August as a final project for CSC-391 at Wisconsin Lutheran College. Our disc golf store was created using Go, SQLite, and Vue. Go was used to create and run all endpoints. Vue was used for all frontend developement and the consumption of endpoints. SQLite was used as our DBMS which allowed for a simple implementation of our data which was used in our endpoints. 
+This website was created by August Gresens and Luke Guldberg as a final project for CSC-391 at Wisconsin Lutheran College. Our disc golf store was created using Go, SQLite, and Vue. Go was used to create and run all endpoints. Vue was used for all frontend developement and the consumption of endpoints. SQLite was used as our DBMS which allowed for a simple implementation of our data which was used in our endpoints. 
 
 ## Running the Website
 In order to run the website, you must type the following commands into your terminal from the `Disc-Golf-Store>` directory.
